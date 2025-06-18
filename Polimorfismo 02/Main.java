@@ -1,5 +1,5 @@
 
-public class Main { // Nome da classe Principal conforme pedido
+public class Main {
     public static void main(String[] args) {
         System.out.println("--- Desafio Sistema de Gerenciamento de Investimentos - InvesteMais ---");
 
