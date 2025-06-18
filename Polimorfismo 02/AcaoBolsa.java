@@ -6,7 +6,7 @@ class AcaoBolsa extends Investimento {
 
     public AcaoBolsa(Cliente cliente, double valorInicial, String codigoAcao, String nomeEmpresa, double taxaCorretagemFixaMensal) {
         super(cliente, valorInicial);
-        this.codigoAcao = codigoAcao; // Corrigido typo "codigoAacao" para "codigoAcao"
+        this.codigoAcao = codigoAcao; 
         this.nomeEmpresa = nomeEmpresa;
         this.taxaCorretagemFixaMensal = taxaCorretagemFixaMensal;
     }
